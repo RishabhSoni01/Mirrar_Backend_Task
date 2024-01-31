@@ -107,5 +107,5 @@ npm test
 - The API assumes a single database for simplicity.
   
 
-# ScreenShots
+## ScreenShots
    ![Capture](https://github.com/RishabhSoni01/Mirrar_Backend_Task/assets/80063042/5e6a1cc0-f4a3-4a6d-8dc5-475607e47527)
