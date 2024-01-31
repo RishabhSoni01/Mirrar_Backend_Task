@@ -105,30 +105,7 @@ npm test
 ## Assumptions
 - Variants are optional, and a product can have zero or more variants.
 - The API assumes a single database for simplicity.
-
-## Postman Collection
-
-```bash
-https://api.postman.com/collections/19381541-90b7f617-4bc6-44d7-9be3-29679a357b97?access_key=PMAT-01HNFEF3ZVRS6G63QSS5P87X3E
-```
-
- Copy the JSON:
-  - Copy the JSON content of the Postman collection.
-
- Open Postman:
-  - Open the Postman app.
-
- Click on Import:
-  - In the Postman app, click on the "Import" button, usually located in the top-left corner.
-
- Select Import File:
-  - Choose the "Raw Text" option or "Paste Raw Text" and paste the copied JSON into the provided field.
-
- Click on Import:
-  - Click the "Import" button.
-
- View Imported Collection:
-  - Once imported, you should see the new collection in the left sidebar of Postman.
+  
 
 # ScreenShots
    ![Capture](https://github.com/RishabhSoni01/Mirrar_Backend_Task/assets/80063042/5e6a1cc0-f4a3-4a6d-8dc5-475607e47527)
