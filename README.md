@@ -130,3 +130,5 @@ https://api.postman.com/collections/19381541-90b7f617-4bc6-44d7-9be3-29679a357b9
  View Imported Collection:
   - Once imported, you should see the new collection in the left sidebar of Postman.
 
+# ScreenShots
+   ![Capture](https://github.com/RishabhSoni01/Mirrar_Backend_Task/assets/80063042/5e6a1cc0-f4a3-4a6d-8dc5-475607e47527)
