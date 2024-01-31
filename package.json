@@ -1,0 +1,31 @@
+{
+  "name": "e-commerce_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "mocha test/product.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/register": "^7.23.7",
+    "chai": "^4.3.4",
+    "chai-http": "^4.4.0",
+    "esm": "^3.2.25",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0",
+    "mongodb-memory-server": "^9.1.6",
+    "nodemon": "^3.0.3",
+    "supertest": "^6.3.4"
+  }
+}
